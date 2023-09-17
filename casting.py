@@ -1,0 +1,8 @@
+a=("10")
+b=("44")
+print (a+b)
+print("enter the number")
+i=int(input())
+p=int(input())
+v=(i+p)
+print(v)
