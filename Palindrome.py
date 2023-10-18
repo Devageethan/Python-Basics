@@ -4,8 +4,6 @@ temp= user
 while user!=0:
     rev +=rev*10+user%10
     user/=10
-
-    print(temp)
     if(rev==temp):
         print(rev,"palindrome")
     else:
